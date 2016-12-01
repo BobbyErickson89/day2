@@ -1,0 +1,8 @@
+Here are the steps to install a useful Atom package called 'autoclose-html':
+
+1.  Open Atom
+2.  In the menu at the top of your screen, click on 'Atom' and then click 'Preferences'
+3.  Once the Settings tab is open, click on 'Install' in the left menu.
+4.  In the search bar, look up autoclose-html.  Install that package.
+5.  Now click on 'Editor' in the left menu.
+6.  Scroll towards the bottom and make sure 'Indent Guide' is checked.

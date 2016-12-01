@@ -1,0 +1,49 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.section-1 {
+  background-color: orange;
+  color: white;
+}
+
+.shoe-1 {
+  width: 400px;
+}
+
+p {
+  border: 5px solid black;
+}
+
+.example-tag {
+  background: lightblue;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  letter-spacing: 5px;
+}
+
+.box-model-example {
+  border-bottom: 2px solid black;
+  width: 500px;
+  height: 400px;
+  padding-top: 60px;
+  padding-left: 30px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+  /*height:  400 + 60 + 30 + 2 = 492 total height of this element*/
+  /*width:  500 + 30 + 40 + 2 = 572*/
+
+}
+
+
+/*1
+height:
+*/
